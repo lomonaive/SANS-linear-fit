@@ -1,4 +1,7 @@
 # SANS-linear-fit
+
+for zero concentration extrapolation:
+
 Given $\phi$
 
 $$S=\phi_DS_1+\phi_D^2S_2$$
